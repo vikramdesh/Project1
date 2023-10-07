@@ -1,0 +1,5 @@
+Alwzys declare variables
+Always use const if the value should not be chaged
+Always use cont if the type should not be chaged 
+Only use let if you cant use cont
+only use var if you must support old browser
